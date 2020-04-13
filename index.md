@@ -7,4 +7,4 @@ layout: default
 
 Protocol of my personal beer yeast experiments.
 
-[List of protocols]({% link protocols.md %})
+[List of protocols](protocols.md)
