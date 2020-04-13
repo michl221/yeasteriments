@@ -1,10 +1,9 @@
 ---
 title: Beer Yeast Experiments
-layout: default
 ---
 
 # {{ page.title }}
 
 Protocol of my personal beer yeast experiments.
 
-[List of protocols](protocols.md)
+[List of protocols](protocols/)

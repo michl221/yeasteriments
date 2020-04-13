@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
+plugins: 
+  - jekyll-default-layout
 baseurl: "/yeasteriments"
+title: Beer Yeast Experimentation Protocols
+description: I use this site to maintain my personal protocols of my experimentation of beer yeast.

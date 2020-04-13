@@ -1,4 +1,0 @@
----
-title: Protocols
-layout: protocols
----
