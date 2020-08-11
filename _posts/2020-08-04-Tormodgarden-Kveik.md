@@ -12,4 +12,15 @@ Brewing a batch with http://www.garshol.priv.no/download/farmhouse/kveik.html#kv
 |-----|------------|
 | 2020-08-04 | Activate dryed yeast (10g) with 450ml starter (in the morning) | Green apple (at the beginning) |
 | 2020-04-04 | Add activated yeast to the wort at 34°C | Started a couple of hours later |
-[ 2020-04-09 | Fermentation still going on at 26-27°C | |
+| 2020-04-09 | Fermentation still going on at 26-27°C | |
+
+
+
+Type: Infusion
+
+Recipe:
+4.9 kg Wiener Malt
+30g Spalter Select (4.9% alpha) (50 minutes before end)
+8g Spalter Select (4.0% alpha) (Whirlpool)
+
+
